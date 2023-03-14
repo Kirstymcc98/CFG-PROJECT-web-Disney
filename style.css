@@ -23,10 +23,17 @@ body {background-color: rgb(227, 225, 225); font-family: 'Nunito', sans-serif;}
     color: white;
   }
   .mainimage { float: right;
-  margin-right: 40px;
+  margin-right: 20px;
   margin-top: 40px;
   }
  .mainheading {float: left; text-align: center;
    margin-left: 80px; 
    margin-top: 40px; 
+}
+.para {float: left;
+   margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 5px;
+  text-align: center;
+padding: 0px;
 }

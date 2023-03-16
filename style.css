@@ -38,13 +38,17 @@ body {background-color: rgb(227, 225, 225); font-family: 'Nunito', sans-serif;}
   text-align: center;
 padding: 0px;
 }
-.button{border: none;
+.btn {border: solid rgba(242, 113, 186, 0.879);
   color: rgba(242, 113, 186, 0.879);
   padding: 16px 32px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  margin: 4px 2px;
+  margin-left: 230px;
+  margin-top: 10px;
+  margin-bottom: 10px;
   transition-duration: 0.4s;
   cursor: pointer;}
+
+  
